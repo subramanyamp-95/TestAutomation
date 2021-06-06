@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Automation">
+	<test name="Scenario">
+		<classes>
+			<class name="com.sgtesting.testng.Assignment1"></class>
+			<class name="com.sgtesting.testng.Assignment2"></class>
+			<class name="com.sgtesting.testng.Assignment3"></class>
+			<class name="com.sgtesting.testng.Assignment4"></class>
+			<class name="com.sgtesting.testng.Assignment5"></class>
+			<class name="com.sgtesting.testng.Assignment6"></class>
+			<class name="com.sgtesting.testng.Assignment7"></class>
+			<class name="com.sgtesting.testng.Assignment8"></class>
+			<class name="com.sgtesting.testng.Assignment9"></class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,329 @@
+
+2021-06-02 22:16:28 INFO  The Steps in Assignments1 are:28 - The Browser will launch
+2021-06-02 22:16:47 INFO  The Steps in Assignments1 are:31 - The Windows will Maximise here
+2021-06-02 22:16:48 INFO  The Steps in Assignments1 are:43 - The URL of the application will  navigate here
+2021-06-02 22:16:56 INFO  The Steps in Assignments1 are:56 - Login Will takes place
+2021-06-02 22:16:56 INFO  The Steps in Assignments1 are:57 - Enter The Username
+2021-06-02 22:16:57 INFO  The Steps in Assignments1 are:59 - Enter The Password
+2021-06-02 22:16:57 INFO  The Steps in Assignments1 are:61 - Click on the Loign button 
+2021-06-02 22:16:59 INFO  The Steps in Assignments1 are:87 - minimizing rhe FlyOutWindow
+2021-06-02 22:17:04 INFO  The Steps in Assignments1 are:100 - Creating User1 with valid information
+2021-06-02 22:17:04 INFO  The Steps in Assignments1 are:101 - Click on the User Button
+2021-06-02 22:17:29 INFO  The Steps in Assignments1 are:124 - Deleting created user
+2021-06-02 22:17:31 INFO  The Steps in Assignments1 are:74 - Logout from the application
+2021-06-02 22:17:34 INFO  The Steps in Assignments1 are:144 - Closing The Application
+
+
+2021-06-03 15:41:17 INFO  The Steps in Assignments2 are:28 - Launching The Browser
+2021-06-03 15:41:27 INFO  The Steps in Assignments2 are:31 - The Windows will Maximize here
+2021-06-03 15:41:27 INFO  The Steps in Assignments2 are:43 - The URL of the application will  navigate here
+2021-06-03 15:41:36 INFO  The Steps in Assignments2 are:55 - Login Will takes place
+2021-06-03 15:41:36 INFO  The Steps in Assignments2 are:56 - Enter The Username and password
+2021-06-03 15:41:42 INFO  The Steps in Assignments2 are:59 - Click on the Loign button 
+2021-06-03 15:41:45 INFO  The Steps in Assignments2 are:71 - minimizing the FlyOutWindow
+2021-06-03 15:41:54 INFO  The Steps in Assignments2 are:84 - Creating User1 with valid information
+2021-06-03 15:41:54 INFO  The Steps in Assignments2 are:85 - Click on the User Button
+2021-06-03 15:42:04 INFO  The Steps in Assignments2 are:107 - The user will get modified Here
+2021-06-03 15:42:14 INFO  The Steps in Assignments2 are:125 - Deleting created user
+2021-06-03 15:42:24 INFO  The Steps in Assignments2 are:144 - Logout from the application
+2021-06-03 15:42:25 INFO  The Steps in Assignments2 are:157 - Closing The Application
+
+
+2021-06-03 15:43:29 INFO  The Steps in Assignments3 are:27 - Launching The Browser
+2021-06-03 15:43:35 INFO  The Steps in Assignments3 are:30 - The Windows will Maximize here
+2021-06-03 15:43:35 INFO  The Steps in Assignments3 are:43 - The URL of the application will  navigate here
+2021-06-03 15:43:48 INFO  The Steps in Assignments3 are:55 - Login Will takes place
+2021-06-03 15:43:48 INFO  The Steps in Assignments3 are:56 - Enter The Username and password
+2021-06-03 15:43:56 INFO  The Steps in Assignments3 are:71 - minimizing the FlyOutWindow
+2021-06-03 15:44:04 INFO  The Steps in Assignments3 are:84 - Creating Customer with valid information
+2021-06-03 15:44:04 INFO  The Steps in Assignments3 are:85 - Click on the New Button
+2021-06-03 15:44:05 INFO  The Steps in Assignments3 are:108 - Deleting the  created customer
+2021-06-03 15:44:06 INFO  The Steps in Assignments3 are:144 - Logout from the application
+2021-06-03 15:44:07 INFO  The Steps in Assignments 3are:157 - Closing The Application
+
+
+2021-06-03 15:54:21 INFO  The Steps in Assignments4 are:27 - Launching The Browser
+2021-06-03 15:54:39 INFO  The Steps in Assignments4 are:30 - The Windows will Maximize here
+2021-06-03 15:54:40 INFO  The Steps in Assignments4 are:43 - The URL of the application will  navigate here
+2021-06-03 15:54:49 INFO  The Steps in Assignments4 are:55 - Login Will takes place
+2021-06-03 15:54:49 INFO  The Steps in Assignments4 are:56 - Enter The Username and password
+2021-06-03 15:54:52 INFO  The Steps in Assignments4 are:71 - minimizing the FlyOutWindow
+2021-06-03 15:54:54 INFO  The Steps in Assignments4 are:84 - Creating Customer with valid information
+2021-06-03 15:55:06 INFO  The Steps in Assignments4 are:106 - Mofifying the customer
+2021-06-03 15:55:10 INFO  The Steps in Assignments4 are:123 - Deleting the  created customer
+2021-06-03 15:55:19 INFO  The Steps in Assignments4 are:143 - Logout From the application
+2021-06-03 15:55:23 INFO  The Steps in Assignments4 are:155 - Closing The application
+
+
+2021-06-03 16:13:15 INFO  The Steps in Assignments5 are:28 - Launching The Browser
+2021-06-03 16:13:20 INFO  The Steps in Assignments5 are:31 - The Windows will Maximize here
+2021-06-03 16:13:21 INFO  The Steps in Assignments5 are:44 - The URL of the application will  navigate here
+2021-06-03 16:13:33 INFO  The Steps in Assignments5 are:56 - Login Will takes place
+2021-06-03 16:13:33 INFO  The Steps in Assignments5 are:57 - Enter The Username and password
+2021-06-03 16:13:35 INFO  The Steps in Assignments5 are:72 - minimizing the FlyOutWindow
+2021-06-03 16:13:40 INFO  The Steps in Assignments5 are:85 - Creating Customer with valid information
+2021-06-03 16:13:41 INFO  The Steps in Assignments5 are:106 - Creating Project with valid information
+2021-06-03 16:13:41 INFO  The Steps in Assignments5 are:125 - Deleting Project 
+2021-06-03 16:13:41 INFO  The Steps in Assignments5 are:143 - Deleting Customer 
+2021-06-03 16:13:41 INFO  The Steps in Assignments5 are:163 - Logout From the application
+2021-06-03 16:13:42 INFO  The Steps in Assignments5 are:175 - Closing The application
+
+
+2021-06-03 16:19:02 INFO  The Steps in Assignments6 are:29 - Launching The Browser
+2021-06-03 16:19:05 INFO  The Steps in Assignments6 are:32 - The Windows will Maximize here
+2021-06-03 16:19:06 INFO  The Steps in Assignments6 are:45 - The URL of the application will  navigate here
+2021-06-03 16:19:14 INFO  The Steps in Assignments6 are:57 - Login Will takes place
+2021-06-03 16:19:14 INFO  The Steps in Assignments6 are:58 - Enter The Username and password
+2021-06-03 16:19:16 INFO  The Steps in Assignments6 are:73 - minimizing the FlyOutWindow
+2021-06-03 16:19:18 INFO  The Steps in Assignments6 are:86 - Creating Customer with valid information
+2021-06-03 16:19:19 INFO  The Steps in Assignments6 are:108 - Creating Project with valid information
+2021-06-03 16:19:19 INFO  The Steps in Assignments6 are:128 - Modifying project with valid information
+2021-06-03 16:19:19 INFO  The Steps in Assignments5 are:146 - Deleting project
+2021-06-03 16:19:19 INFO  The Steps in Assignments6 are:166 - Deleting Customer
+2021-06-03 16:19:19 INFO  The Steps in Assignments6 are:187 - Logout From the application
+2021-06-03 16:19:20 INFO  The Steps in Assignments6 are:199 - Closing The application
+
+
+
+2021-06-03 16:25:32 INFO  The Steps in Assignments7 are:28 - Launching The Browser
+2021-06-03 16:25:37 INFO  The Steps in Assignments7 are:31 - The Windows will Maximize here
+2021-06-03 16:25:37 INFO  The Steps in Assignments7 are:44 - The URL of the application will  navigate here
+2021-06-03 16:25:47 INFO  The Steps in Assignments7 are:56 - Login Will takes place
+2021-06-03 16:25:47 INFO  The Steps in Assignments7 are:57 - Enter The Username and password
+2021-06-03 16:25:50 INFO  The Steps in Assignments7 are:72 - minimizing the FlyOutWindow
+2021-06-03 16:25:54 INFO  The Steps in Assignments7 are:85 - Creating Customer with valid information
+2021-06-03 16:26:06 INFO  The Steps in Assignments7 are:107 - Creating Project with valid information
+2021-06-03 16:26:13 INFO  The Steps in Assignments7 are:127 - Creating task with valid information
+2021-06-03 16:26:22 INFO  The Steps in Assignments7 are:147 - Deleting Project with valid information
+
+2021-06-03 13:01:48 INFO  Assignment No=6, AdvancedScenario-1:22 - The launchBrowser() method has started
+2021-06-03 13:01:48 INFO  Assignment No=6, AdvancedScenario-1:23 - Getting default user directory path
+2021-06-03 13:01:50 INFO  Assignment No=6, AdvancedScenario-1:27 - Chrome browser has launched successfully!!!!
+2021-06-03 13:01:50 INFO  Assignment No=6, AdvancedScenario-1:29 - Chrome browser is maximized
+2021-06-03 13:01:50 INFO  Assignment No=6, AdvancedScenario-1:30 - The launchBrowser() method has ended
+2021-06-03 13:01:50 INFO  Assignment No=6, AdvancedScenario-1:31 - ------------------------------------------
+2021-06-03 13:01:50 INFO  Assignment No=6, AdvancedScenario-1:43 - The navigate() method has started
+2021-06-03 13:01:50 INFO  Assignment No=6, AdvancedScenario-1:44 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 13:01:53 INFO  Assignment No=6, AdvancedScenario-1:47 - Login page of 'actiTime' is displayed
+2021-06-03 13:01:53 INFO  Assignment No=6, AdvancedScenario-1:48 - The navigate() method has ended
+2021-06-03 13:01:53 INFO  Assignment No=6, AdvancedScenario-1:49 - ------------------------------------------
+2021-06-03 13:01:53 INFO  Assignment No=6, AdvancedScenario-1:61 - The loginAsAdmin() method has started
+2021-06-03 13:01:58 INFO  Assignment No=6, AdvancedScenario-1:63 - The loginAsAdmin() method has ended
+2021-06-03 13:01:58 INFO  Assignment No=6, AdvancedScenario-1:64 - ------------------------------------------
+2021-06-03 13:01:58 INFO  Assignment No=6, AdvancedScenario-1:66 - The minimizeFlyOutWindow() method has started
+2021-06-03 13:02:02 INFO  Assignment No=6, AdvancedScenario-1:69 - The minimizeFlyOutWindow() method has ended
+2021-06-03 13:02:02 INFO  Assignment No=6, AdvancedScenario-1:70 - ------------------------------------------
+2021-06-03 13:02:02 INFO  Assignment No=6, AdvancedScenario-1:72 - The createUser1() method has started
+2021-06-03 13:02:05 INFO  Assignment No=6, AdvancedScenario-1:75 - Clicked on USER
+2021-06-03 13:02:07 INFO  Assignment No=6, AdvancedScenario-1:78 - Clicked on +Add User
+2021-06-03 13:02:07 INFO  Assignment No=6, AdvancedScenario-1:80 - In FirstName text field, entered as 'User1'
+2021-06-03 13:02:07 INFO  Assignment No=6, AdvancedScenario-1:82 - In LastName text field, entered as 'Demo'
+2021-06-03 13:02:07 INFO  Assignment No=6, AdvancedScenario-1:84 - In email text field, entered as 'user1@gmail.com'
+2021-06-03 13:02:07 INFO  Assignment No=6, AdvancedScenario-1:86 - In UserName text field, entered as 'User1'
+2021-06-03 13:02:07 INFO  Assignment No=6, AdvancedScenario-1:88 - In Password text field, entered as 'welcome1'
+2021-06-03 13:02:07 INFO  Assignment No=6, AdvancedScenario-1:90 - In Re-type Password text field, entered as 'welcome1'
+2021-06-03 13:02:12 INFO  Assignment No=6, AdvancedScenario-1:94 - Clicked on Create User button
+2021-06-03 13:02:12 INFO  Assignment No=6, AdvancedScenario-1:95 - The createUser1() method has ended
+2021-06-03 13:02:12 INFO  Assignment No=6, AdvancedScenario-1:96 - ------------------------------------------
+2021-06-03 13:02:12 INFO  Assignment No=6, AdvancedScenario-1:107 - The createUser2() method has started
+2021-06-03 13:02:14 INFO  Assignment No=6, AdvancedScenario-1:110 - Clicked on +Add User
+2021-06-03 13:02:14 INFO  Assignment No=6, AdvancedScenario-1:112 - In FirstName text field, entered as 'User2'
+2021-06-03 13:02:14 INFO  Assignment No=6, AdvancedScenario-1:114 - In LastName text field, entered as 'Demo'
+2021-06-03 13:02:14 INFO  Assignment No=6, AdvancedScenario-1:116 - In email text field, entered as 'user2@gmail.com'
+2021-06-03 13:02:14 INFO  Assignment No=6, AdvancedScenario-1:118 - In UserName text field, entered as 'User2'
+2021-06-03 13:02:14 INFO  Assignment No=6, AdvancedScenario-1:120 - In Password text field, entered as 'welcome2'
+2021-06-03 13:02:14 INFO  Assignment No=6, AdvancedScenario-1:122 - In Re-type Password text field, entered as 'welcome2'
+2021-06-03 13:02:19 INFO  Assignment No=6, AdvancedScenario-1:126 - Clicked on Create User button
+2021-06-03 13:02:19 INFO  Assignment No=6, AdvancedScenario-1:127 - The createUser2() method has ended
+2021-06-03 13:02:19 INFO  Assignment No=6, AdvancedScenario-1:128 - ------------------------------------------
+2021-06-03 13:02:19 INFO  Assignment No=6, AdvancedScenario-1:139 - The createUser3() method has started
+2021-06-03 13:02:21 INFO  Assignment No=6, AdvancedScenario-1:143 - Clicked on +Add User
+2021-06-03 13:02:21 INFO  Assignment No=6, AdvancedScenario-1:145 - In FirstName text field, entered as 'User3'
+2021-06-03 13:02:21 INFO  Assignment No=6, AdvancedScenario-1:147 - In LastName text field, entered as 'Demo'
+2021-06-03 13:02:21 INFO  Assignment No=6, AdvancedScenario-1:149 - In email text field, entered as 'user3@gmail.com'
+2021-06-03 13:02:21 INFO  Assignment No=6, AdvancedScenario-1:151 - In UserName text field, entered as 'User3'
+2021-06-03 13:02:21 INFO  Assignment No=6, AdvancedScenario-1:153 - In Password text field, entered as 'welcome3'
+2021-06-03 13:02:22 INFO  Assignment No=6, AdvancedScenario-1:155 - In Re-type Password text field, entered as 'welcome3'
+2021-06-03 13:02:26 INFO  Assignment No=6, AdvancedScenario-1:159 - Clicked on Create User button
+2021-06-03 13:02:26 INFO  Assignment No=6, AdvancedScenario-1:160 - The createUser3() method has ended
+2021-06-03 13:02:26 INFO  Assignment No=6, AdvancedScenario-1:161 - ------------------------------------------
+2021-06-03 13:02:26 INFO  Assignment No=6, AdvancedScenario-1:163 - The logout() method has started
+2021-06-03 13:02:28 INFO  Assignment No=6, AdvancedScenario-1:165 - The logout() method has ended
+2021-06-03 13:02:28 INFO  Assignment No=6, AdvancedScenario-1:166 - ------------------------------------------
+2021-06-03 13:02:28 INFO  Assignment No=6, AdvancedScenario-1:177 - The loginAsUser1() method has started
+2021-06-03 13:02:37 INFO  Assignment No=6, AdvancedScenario-1:179 - The loginAsUser1() method has ended
+2021-06-03 13:02:37 INFO  Assignment No=6, AdvancedScenario-1:180 - ------------------------------------------
+2021-06-03 13:02:37 INFO  Assignment No=6, AdvancedScenario-1:182 - The logout() method has started
+2021-06-03 13:02:39 INFO  Assignment No=6, AdvancedScenario-1:184 - The logout() method has ended
+2021-06-03 13:02:39 INFO  Assignment No=6, AdvancedScenario-1:185 - ------------------------------------------
+2021-06-03 13:02:39 INFO  Assignment No=6, AdvancedScenario-1:187 - The loginAsUser2() method has started
+2021-06-03 13:02:47 INFO  Assignment No=6, AdvancedScenario-1:189 - The loginAsUser2() method has ended
+2021-06-03 13:02:47 INFO  Assignment No=6, AdvancedScenario-1:190 - ------------------------------------------
+2021-06-03 13:02:47 INFO  Assignment No=6, AdvancedScenario-1:192 - The logout() method has started
+2021-06-03 13:02:50 INFO  Assignment No=6, AdvancedScenario-1:194 - The logout() method has ended
+2021-06-03 13:02:50 INFO  Assignment No=6, AdvancedScenario-1:195 - ------------------------------------------
+2021-06-03 13:02:50 INFO  Assignment No=6, AdvancedScenario-1:197 - The loginAsUser3() method has started
+2021-06-03 13:02:58 INFO  Assignment No=6, AdvancedScenario-1:199 - The loginAsUser3() method has ended
+2021-06-03 13:02:58 INFO  Assignment No=6, AdvancedScenario-1:200 - ------------------------------------------
+2021-06-03 13:02:58 INFO  Assignment No=6, AdvancedScenario-1:202 - The logout() method has started
+2021-06-03 13:03:00 INFO  Assignment No=6, AdvancedScenario-1:204 - The logout() method has ended
+2021-06-03 13:03:00 INFO  Assignment No=6, AdvancedScenario-1:205 - ------------------------------------------
+2021-06-03 13:03:00 INFO  Assignment No=6, AdvancedScenario-1:217 - The loginAsAdmin() method has started
+2021-06-03 13:03:05 INFO  Assignment No=6, AdvancedScenario-1:219 - The loginAsAdmin() method has ended
+2021-06-03 13:03:05 INFO  Assignment No=6, AdvancedScenario-1:220 - ------------------------------------------
+2021-06-03 13:03:05 INFO  Assignment No=6, AdvancedScenario-1:222 - The deleteUser1() method has started
+2021-06-03 13:03:07 INFO  Assignment No=6, AdvancedScenario-1:225 - Clicked on USER
+2021-06-03 13:03:09 INFO  Assignment No=6, AdvancedScenario-1:228 - Clicked on created user i.e, User1
+2021-06-03 13:03:12 INFO  Assignment No=6, AdvancedScenario-1:231 - Clicked on Delete Button
+2021-06-03 13:03:12 INFO  Assignment No=6, AdvancedScenario-1:233 - Switched to popup window
+2021-06-03 13:03:12 INFO  Assignment No=6, AdvancedScenario-1:237 - Accepted the message in popup window by clicking on OK button
+2021-06-03 13:03:14 INFO  Assignment No=6, AdvancedScenario-1:239 - The deleteUser1() method has ended
+2021-06-03 13:03:14 INFO  Assignment No=6, AdvancedScenario-1:240 - ------------------------------------------
+2021-06-03 13:03:14 INFO  Assignment No=6, AdvancedScenario-1:252 - The deleteUser2() method has started
+2021-06-03 13:03:17 INFO  Assignment No=6, AdvancedScenario-1:255 - Clicked on created user i.e, User2
+2021-06-03 13:03:19 INFO  Assignment No=6, AdvancedScenario-1:258 - Clicked on Delete Button
+2021-06-03 13:03:19 INFO  Assignment No=6, AdvancedScenario-1:260 - Switched to popup window
+2021-06-03 13:03:21 INFO  Assignment No=6, AdvancedScenario-1:265 - Accepted the message in popup window by clicking on OK button
+2021-06-03 13:03:21 INFO  Assignment No=6, AdvancedScenario-1:266 - The deleteUser2() method has ended
+2021-06-03 13:03:21 INFO  Assignment No=6, AdvancedScenario-1:267 - ------------------------------------------
+2021-06-03 13:03:21 INFO  Assignment No=6, AdvancedScenario-1:279 - The deleteUser3() method has started
+2021-06-03 13:03:24 INFO  Assignment No=6, AdvancedScenario-1:282 - Clicked on created user i.e, User3
+2021-06-03 13:03:26 INFO  Assignment No=6, AdvancedScenario-1:285 - Clicked on Delete Button
+2021-06-03 13:03:26 INFO  Assignment No=6, AdvancedScenario-1:287 - Switched to popup window
+2021-06-03 13:03:30 INFO  Assignment No=6, AdvancedScenario-1:292 - Accepted the message in popup window by clicking on OK button
+2021-06-03 13:03:30 INFO  Assignment No=6, AdvancedScenario-1:293 - The deleteUser3() method has ended
+2021-06-03 13:03:30 INFO  Assignment No=6, AdvancedScenario-1:294 - ------------------------------------------
+2021-06-03 13:03:30 INFO  Assignment No=6, AdvancedScenario-1:296 - The logout() method has started
+2021-06-03 13:03:32 INFO  Assignment No=6, AdvancedScenario-1:298 - The logout() method has ended
+2021-06-03 13:03:32 INFO  Assignment No=6, AdvancedScenario-1:299 - ------------------------------------------
+2021-06-03 13:03:32 INFO  Assignment No=6, AdvancedScenario-1:311 - The closeApplication() method has started
+2021-06-03 13:03:32 INFO  Assignment No=6, AdvancedScenario-1:313 - Chrome browser closed successfully!!!!
+2021-06-03 13:03:32 INFO  Assignment No=6, AdvancedScenario-1:314 - The closeApplication() method has ended
+2021-06-03 13:03:32 INFO  Assignment No=6, AdvancedScenario-1:315 - ------------------------------------------
+2021-06-03 13:40:39 INFO  Assignment No=6, AdvancedScenario-2:22 - The launchBrowser() method has started
+2021-06-03 13:40:39 INFO  Assignment No=6, AdvancedScenario-2:23 - Getting default user directory path
+2021-06-03 13:40:41 INFO  Assignment No=6, AdvancedScenario-2:27 - Chrome browser has launched successfully!!!!
+2021-06-03 13:40:41 INFO  Assignment No=6, AdvancedScenario-2:29 - Chrome browser is maximized
+2021-06-03 13:40:41 INFO  Assignment No=6, AdvancedScenario-2:30 - The launchBrowser() method has ended
+2021-06-03 13:40:41 INFO  Assignment No=6, AdvancedScenario-2:31 - ------------------------------------------
+2021-06-03 13:40:41 INFO  Assignment No=6, AdvancedScenario-2:43 - The navigate() method has started
+2021-06-03 13:40:41 INFO  Assignment No=6, AdvancedScenario-2:44 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 13:40:43 INFO  Assignment No=6, AdvancedScenario-2:47 - Login page of 'actiTime' is displayed
+2021-06-03 13:40:43 INFO  Assignment No=6, AdvancedScenario-2:48 - The navigate() method has ended
+2021-06-03 13:40:43 INFO  Assignment No=6, AdvancedScenario-2:49 - ------------------------------------------
+2021-06-03 13:40:43 INFO  Assignment No=6, AdvancedScenario-2:61 - The loginAsAdmin() method has started
+2021-06-03 13:40:48 INFO  Assignment No=6, AdvancedScenario-2:63 - The loginAsAdmin() method has ended
+2021-06-03 13:40:48 INFO  Assignment No=6, AdvancedScenario-2:64 - ------------------------------------------
+2021-06-03 13:40:48 INFO  Assignment No=6, AdvancedScenario-2:66 - The minimizeFlyOutWindow() method has started
+2021-06-03 13:40:52 INFO  Assignment No=6, AdvancedScenario-2:69 - The minimizeFlyOutWindow() method has ended
+2021-06-03 13:40:52 INFO  Assignment No=6, AdvancedScenario-2:70 - ------------------------------------------
+2021-06-03 13:40:52 INFO  Assignment No=6, AdvancedScenario-2:72 - The createUser1() method has started
+2021-06-03 13:40:55 INFO  Assignment No=6, AdvancedScenario-2:75 - Clicked on USER
+2021-06-03 13:40:57 INFO  Assignment No=6, AdvancedScenario-2:78 - Clicked on +Add User
+2021-06-03 13:40:57 INFO  Assignment No=6, AdvancedScenario-2:80 - In FirstName text field, entered as 'User1'
+2021-06-03 13:40:58 INFO  Assignment No=6, AdvancedScenario-2:82 - In LastName text field, entered as 'Demo'
+2021-06-03 13:40:58 INFO  Assignment No=6, AdvancedScenario-2:84 - In email text field, entered as 'user1@gmail.com'
+2021-06-03 13:40:58 INFO  Assignment No=6, AdvancedScenario-2:86 - In UserName text field, entered as 'User1'
+2021-06-03 13:40:58 INFO  Assignment No=6, AdvancedScenario-2:88 - In Password text field, entered as 'welcome1'
+2021-06-03 13:40:58 INFO  Assignment No=6, AdvancedScenario-2:90 - In Re-type Password text field, entered as 'welcome1'
+2021-06-03 13:41:02 INFO  Assignment No=6, AdvancedScenario-2:94 - Clicked on Create User button
+2021-06-03 13:41:02 INFO  Assignment No=6, AdvancedScenario-2:95 - The createUser1() method has ended
+2021-06-03 13:41:02 INFO  Assignment No=6, AdvancedScenario-2:96 - ------------------------------------------
+2021-06-03 13:41:02 INFO  Assignment No=6, AdvancedScenario-2:98 - The logout() method has started
+2021-06-03 13:41:05 INFO  Assignment No=6, AdvancedScenario-2:100 - The logout() method has ended
+2021-06-03 13:41:05 INFO  Assignment No=6, AdvancedScenario-2:101 - ------------------------------------------
+2021-06-03 13:41:05 INFO  Assignment No=6, AdvancedScenario-2:114 - The loginAsUser1() method has started
+2021-06-03 13:41:13 INFO  Assignment No=6, AdvancedScenario-2:116 - The loginAsUser1() method has ended
+2021-06-03 13:41:13 INFO  Assignment No=6, AdvancedScenario-2:117 - ------------------------------------------
+2021-06-03 13:41:13 INFO  Assignment No=6, AdvancedScenario-2:119 - The createUser2() method has started
+2021-06-03 13:41:15 INFO  Assignment No=6, AdvancedScenario-2:122 - Clicked on USER
+2021-06-03 13:41:18 INFO  Assignment No=6, AdvancedScenario-2:125 - Clicked on +Add User button
+2021-06-03 13:41:18 INFO  Assignment No=6, AdvancedScenario-2:127 - In FirstName text field, entered as 'User2'
+2021-06-03 13:41:18 INFO  Assignment No=6, AdvancedScenario-2:129 - In LastName text field, entered as 'Demo'
+2021-06-03 13:41:18 INFO  Assignment No=6, AdvancedScenario-2:131 - In email text field, entered as 'user2@gmail.com'
+2021-06-03 13:41:18 INFO  Assignment No=6, AdvancedScenario-2:133 - In UserName text field, entered as 'User2'
+2021-06-03 13:41:18 INFO  Assignment No=6, AdvancedScenario-2:135 - In Password text field, entered as 'welcome2'
+2021-06-03 13:41:18 INFO  Assignment No=6, AdvancedScenario-2:137 - In Re-type Password text field, entered as 'welcome2'
+2021-06-03 13:41:23 INFO  Assignment No=6, AdvancedScenario-2:141 - Clicked on Create User button
+2021-06-03 13:41:23 INFO  Assignment No=6, AdvancedScenario-2:142 - The createUser2() method has ended
+2021-06-03 13:41:23 INFO  Assignment No=6, AdvancedScenario-2:143 - ------------------------------------------
+2021-06-03 13:41:23 INFO  Assignment No=6, AdvancedScenario-2:145 - The logout() method has started
+2021-06-03 13:41:25 INFO  Assignment No=6, AdvancedScenario-2:147 - The logout() method has ended
+2021-06-03 13:41:25 INFO  Assignment No=6, AdvancedScenario-2:148 - ------------------------------------------
+2021-06-03 13:41:25 INFO  Assignment No=6, AdvancedScenario-2:159 - The loginAsUser2() method has started
+2021-06-03 13:41:33 INFO  Assignment No=6, AdvancedScenario-2:161 - The loginAsUser2() method has ended
+2021-06-03 13:41:33 INFO  Assignment No=6, AdvancedScenario-2:162 - ------------------------------------------
+2021-06-03 13:41:36 INFO  Assignment No=6, AdvancedScenario-2:166 - Clicked on USER
+2021-06-03 13:41:38 INFO  Assignment No=6, AdvancedScenario-2:169 - Clicked on +Add User
+2021-06-03 13:41:38 INFO  Assignment No=6, AdvancedScenario-2:171 - In FirstName text field, entered as 'User3'
+2021-06-03 13:41:38 INFO  Assignment No=6, AdvancedScenario-2:173 - In LastName text field, entered as 'Demo'
+2021-06-03 13:41:38 INFO  Assignment No=6, AdvancedScenario-2:175 - In email text field, entered as 'user3@gmail.com'
+2021-06-03 13:41:38 INFO  Assignment No=6, AdvancedScenario-2:177 - In UserName text field, entered as 'User3'
+2021-06-03 13:41:38 INFO  Assignment No=6, AdvancedScenario-2:179 - In Password text field, entered as 'welcome3'
+2021-06-03 13:41:39 INFO  Assignment No=6, AdvancedScenario-2:181 - In Re-type Password text field, entered as 'welcome3'
+2021-06-03 13:41:43 INFO  Assignment No=6, AdvancedScenario-2:185 - Clicked on Create User button
+2021-06-03 13:41:43 INFO  Assignment No=6, AdvancedScenario-2:186 - The createUser3() method has ended
+2021-06-03 13:41:43 INFO  Assignment No=6, AdvancedScenario-2:187 - ------------------------------------------
+2021-06-03 13:41:43 INFO  Assignment No=6, AdvancedScenario-2:189 - The logout() method has started
+2021-06-03 13:41:45 INFO  Assignment No=6, AdvancedScenario-2:191 - The logout() method has ended
+2021-06-03 13:41:45 INFO  Assignment No=6, AdvancedScenario-2:192 - ------------------------------------------
+2021-06-03 13:41:45 INFO  Assignment No=6, AdvancedScenario-2:204 - The loginAsAdmin() method has started
+2021-06-03 13:41:49 INFO  Assignment No=6, AdvancedScenario-2:206 - The loginAsAdmin() method has ended
+2021-06-03 13:41:49 INFO  Assignment No=6, AdvancedScenario-2:207 - ------------------------------------------
+2021-06-03 13:41:49 INFO  Assignment No=6, AdvancedScenario-2:209 - The modifyUser1() method has started
+2021-06-03 13:41:52 INFO  Assignment No=6, AdvancedScenario-2:212 - Clicked on USER
+2021-06-03 13:41:54 INFO  Assignment No=6, AdvancedScenario-2:215 - Clicked on User1
+2021-06-03 13:41:54 INFO  Assignment No=6, AdvancedScenario-2:217 - In FirstName text field, entered FirstName as 'new'
+2021-06-03 13:41:54 INFO  Assignment No=6, AdvancedScenario-2:219 - In LastName text field, entered LastName as 'new'
+2021-06-03 13:41:54 INFO  Assignment No=6, AdvancedScenario-2:221 - In email text field, clearing the email id
+2021-06-03 13:41:54 INFO  Assignment No=6, AdvancedScenario-2:223 - In email text field, entered email as 'user1new@gmail.com'
+2021-06-03 13:41:54 INFO  Assignment No=6, AdvancedScenario-2:225 - In Password text field, entered Password as 'welcome1new'
+2021-06-03 13:41:55 INFO  Assignment No=6, AdvancedScenario-2:227 - In Retype Password text field, entered Password as 'welcome1new'
+2021-06-03 13:41:59 INFO  Assignment No=6, AdvancedScenario-2:231 - Clicked on Save Changes Button
+2021-06-03 13:41:59 INFO  Assignment No=6, AdvancedScenario-2:232 - The modifyUser1() method has ended
+2021-06-03 13:41:59 INFO  Assignment No=6, AdvancedScenario-2:233 - ------------------------------------------
+2021-06-03 13:41:59 INFO  Assignment No=6, AdvancedScenario-2:235 - The logout() method has started
+2021-06-03 13:42:01 INFO  Assignment No=6, AdvancedScenario-2:237 - The logout() method has ended
+2021-06-03 13:42:01 INFO  Assignment No=6, AdvancedScenario-2:238 - ------------------------------------------
+2021-06-03 13:42:01 INFO  Assignment No=6, AdvancedScenario-2:250 - The loginAsUpdatedUser1() method has started
+2021-06-03 13:42:07 INFO  Assignment No=6, AdvancedScenario-2:252 - The loginAsUpdatedUser1() method has ended
+2021-06-03 13:42:07 INFO  Assignment No=6, AdvancedScenario-2:253 - ------------------------------------------
+2021-06-03 13:42:07 INFO  Assignment No=6, AdvancedScenario-2:255 - The modifyUser2() method has started
+2021-06-03 13:42:10 INFO  Assignment No=6, AdvancedScenario-2:258 - Clicked on USER
+2021-06-03 13:42:12 INFO  Assignment No=6, AdvancedScenario-2:261 - Clicked on User2
+2021-06-03 13:42:12 INFO  Assignment No=6, AdvancedScenario-2:262 - Clicked on +Add User button
+2021-06-03 13:42:12 INFO  Assignment No=6, AdvancedScenario-2:264 - In FirstName text field, entered as 'User2'
+2021-06-03 13:42:12 INFO  Assignment No=6, AdvancedScenario-2:266 - In LastName text field, entered as 'Demo'
+2021-06-03 13:42:12 INFO  Assignment No=6, AdvancedScenario-2:268 - In email text field, entered as 'user2@gmail.com'
+2021-06-03 13:42:13 INFO  Assignment No=6, AdvancedScenario-2:270 - In UserName text field, entered as 'User2'
+2021-06-03 13:42:13 INFO  Assignment No=6, AdvancedScenario-2:272 - In Password text field, entered as 'welcome2'
+2021-06-03 13:42:13 INFO  Assignment No=6, AdvancedScenario-2:274 - In Re-type Password text field, entered as 'welcome2'
+2021-06-03 13:42:17 INFO  Assignment No=6, AdvancedScenario-2:278 - Clicked on Save Changes Button
+2021-06-03 13:42:17 INFO  Assignment No=6, AdvancedScenario-2:279 - The modifyUser2() method has ended
+2021-06-03 13:42:17 INFO  Assignment No=6, AdvancedScenario-2:280 - ------------------------------------------
+2021-06-03 13:42:17 INFO  Assignment No=6, AdvancedScenario-2:282 - The logout() method has started
+2021-06-03 13:42:18 INFO  Assignment No=6, AdvancedScenario-2:284 - The logout() method has ended
+2021-06-03 13:42:18 INFO  Assignment No=6, AdvancedScenario-2:285 - ------------------------------------------
+2021-06-03 13:42:18 INFO  Assignment No=6, AdvancedScenario-2:297 - The loginAsUpdatedUser2() method has started
+2021-06-03 13:42:18 INFO  Assignment No=6, AdvancedScenario-2:299 - The loginAsUpdatedUser2() method has ended
+2021-06-03 13:42:18 INFO  Assignment No=6, AdvancedScenario-2:300 - ------------------------------------------
+2021-06-03 13:42:18 INFO  Assignment No=6, AdvancedScenario-2:302 - The modifyUser3() method has started
+2021-06-03 13:42:19 INFO  Assignment No=6, AdvancedScenario-2:344 - The loginAsUpdatedUser2() method has started
+2021-06-03 13:42:19 INFO  Assignment No=6, AdvancedScenario-2:346 - The loginAsUpdatedUser2() method has ended
+2021-06-03 13:42:19 INFO  Assignment No=6, AdvancedScenario-2:347 - ------------------------------------------
+2021-06-03 13:42:19 INFO  Assignment No=6, AdvancedScenario-2:349 - The deleteUser3() method has started
+2021-06-03 13:42:20 INFO  Assignment No=6, AdvancedScenario-2:384 - The loginAsUpdatedUser1() method has started
+2021-06-03 13:42:20 INFO  Assignment No=6, AdvancedScenario-2:386 - The loginAsUpdatedUser1() method has ended
+2021-06-03 13:42:20 INFO  Assignment No=6, AdvancedScenario-2:387 - ------------------------------------------
+2021-06-03 13:42:20 INFO  Assignment No=6, AdvancedScenario-2:389 - The deleteUser2() method has started
+2021-06-03 13:42:22 INFO  Assignment No=6, AdvancedScenario-2:424 - The loginAsAdmin() method has started
+2021-06-03 13:42:22 INFO  Assignment No=6, AdvancedScenario-2:426 - The loginAsAdmin() method has ended
+2021-06-03 13:42:22 INFO  Assignment No=6, AdvancedScenario-2:427 - ------------------------------------------
+2021-06-03 13:42:22 INFO  Assignment No=6, AdvancedScenario-2:429 - The deleteUser1() method has started
+2021-06-03 13:42:23 INFO  Assignment No=6, AdvancedScenario-2:464 - The closeApplication() method has started
+2021-06-03 13:42:23 INFO  Assignment No=6, AdvancedScenario-2:466 - Chrome browser closed successfully!!!!
+2021-06-03 13:42:23 INFO  Assignment No=6, AdvancedScenario-2:467 - The closeApplication() method has ended
+2021-06-03 13:42:23 INFO  Assignment No=6, AdvancedScenario-2:468 - ------------------------------------------
+
+
+
