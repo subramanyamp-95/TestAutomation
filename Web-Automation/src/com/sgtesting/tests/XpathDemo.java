@@ -13,8 +13,8 @@ public class XpathDemo {
 
 	public static void main(String[] args) {
 		launchBrowser();
-		navigate();
-	//	absoluteXPath();
+		
+		absoluteXPath();
 	//	relativeXPathUsingTagNameAlone();
 	//	relativeXPathUsingTagNameWithIndex();
 	//	relativeXPathUsingTagNameWithAttributeNameValueCombination();
@@ -44,18 +44,7 @@ public class XpathDemo {
 			e.printStackTrace();
 		}
 	}
-
-	static void navigate()
-	{
-		try
-		{
-			oBrowser.get("file://F:/HTML/Sample.html");
-			Thread.sleep(2000);
-		}catch(Exception e)
-		{
-			e.printStackTrace();
-		}
-	}
+	
 	
 	/**
 	 * The absolute xpath always starts with root tag i.e HTML
