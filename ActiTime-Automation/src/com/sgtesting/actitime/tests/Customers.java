@@ -2,7 +2,7 @@ package com.sgtesting.actitime.tests;
 
 public class Customers {
 	
-	/*
+	/**
 	 * Test case ID:
 	 * Test case Name:
 	 * Created By:
@@ -24,7 +24,7 @@ public class Customers {
 		}
 	}
 	
-	/*
+	/**
 	 * Test case ID:
 	 * Test case Name:
 	 * Created By:
