@@ -28,7 +28,7 @@ public class DriverScripts {
 		Users.modifyUser();
 		Users.deleteUser();
 		LoginLogout.logout();
-		//Initialization.closeApplication();
+		Initialization.closeApplication();
 		
 		
 
