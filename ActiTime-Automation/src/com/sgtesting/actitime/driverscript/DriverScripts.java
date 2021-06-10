@@ -17,7 +17,7 @@ public class DriverScripts {
 		Users.createUser();
 		Users.deleteUser();
 		LoginLogout.logout();
-		Initialization.closeApplication();
+		//Initialization.closeApplication();
 		
 		//Modify User Scenario
 		Initialization.launchBrowser();
