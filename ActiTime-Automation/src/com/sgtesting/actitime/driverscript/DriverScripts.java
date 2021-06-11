@@ -16,7 +16,7 @@ public class DriverScripts {
 		HomePage.minimizeFlyOutWindow();
 		Users.createUser();
 		Users.deleteUser();
-		LoginLogout.logout();
+		//LoginLogout.logout();
 		//Initialization.closeApplication();
 		
 		//Modify User Scenario
