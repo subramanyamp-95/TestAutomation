@@ -8,7 +8,7 @@ public class Chrome1 {
 	public WebDriver oBrowser=null;
 
 	public static void main(String[] args) {
-		//launchBrowser();
+		launchBrowser();
 
 	}
 	
