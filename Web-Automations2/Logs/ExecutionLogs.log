@@ -1,0 +1,179 @@
+2021-06-04 17:05:40 INFO  For Loop Output:8 - The Execution of For Loop Starts Here!!!!!
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :20
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :22
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :24
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :26
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :28
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :30
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :32
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :34
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :36
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :38
+2021-06-04 17:05:40 INFO  For Loop Output:12 - The Even Number is :40
+2021-06-04 17:05:40 INFO  For Loop Output:15 - The Execution of For Loop ends Here!!!!!
+2021-06-04 17:06:28 INFO  Assignments1 Acti Time Successfully Executed:26 - successfully launched chrome browser
+2021-06-04 17:06:28 INFO  Assignments1 Acti Time Successfully Executed:29 - The window has been maximised
+2021-06-04 17:06:29 INFO  Assignments1 Acti Time Successfully Executed:41 - actitime software has been navigated to
+2021-06-04 17:06:44 INFO  Assignments1 Acti Time Successfully Executed:62 - username entered
+2021-06-04 17:06:44 INFO  Assignments1 Acti Time Successfully Executed:65 - password entered
+2021-06-04 17:06:44 INFO  Assignments1 Acti Time Successfully Executed:67 - logged in to the actitime software
+2021-06-04 17:06:54 INFO  Assignments1 Acti Time Successfully Executed:71 - the fluout window has been minimised
+2021-06-04 17:07:31 INFO  Assignments1 Acti Time Successfully Executed:118 - user has been created with all the required information
+2021-06-04 17:07:42 INFO  Assignments1 Acti Time Successfully Executed:138 - user has been deleted successfully
+2021-06-04 17:07:45 INFO  Assignments1 Acti Time Successfully Executed:89 - the chromebrowser has been closed
+2021-06-04 17:07:45 INFO  Assignments1 Acti Time Successfully Executed:90 - +++++++++++++++++++++++++++++++++++++
+2021-06-04 17:08:24 INFO  Assignments2 Acti Time Successfully Executed:23 - successfully launched chrome browser
+2021-06-04 17:08:29 INFO  Assignments2 Acti Time Successfully Executed:27 - The window has been maximised
+2021-06-04 17:08:30 INFO  Assignments2 Acti Time Successfully Executed:42 - actitime software has been navigated to
+2021-06-04 17:08:39 INFO  Assignments2 Acti Time Successfully Executed:61 - username entered
+2021-06-04 17:08:39 INFO  Assignments2 Acti Time Successfully Executed:66 - password entered
+2021-06-04 17:08:39 INFO  Assignments2 Acti Time Successfully Executed:69 - logged in to the actitime software
+2021-06-04 17:08:50 INFO  Assignments2 Acti Time Successfully Executed:75 - the fluout window has been minimised
+2021-06-04 17:08:56 INFO  Assignments2 Acti Time Successfully Executed:107 - user has been created with all the required information
+2021-06-04 17:09:04 INFO  Assignments2 Acti Time Successfully Executed:113 - enter firstname
+2021-06-04 17:09:08 INFO  Assignments2 Acti Time Successfully Executed:117 - enter lastname
+2021-06-04 17:09:13 INFO  Assignments2 Acti Time Successfully Executed:121 - enter email
+2021-06-04 17:09:17 INFO  Assignments2 Acti Time Successfully Executed:125 - enter username
+2021-06-04 17:09:17 INFO  Assignments2 Acti Time Successfully Executed:128 - enter password
+2021-06-04 17:09:23 INFO  Assignments2 Acti Time Successfully Executed:167 - user modify
+2021-06-04 17:09:31 INFO  Assignments2 Acti Time Successfully Executed:173 - user has been modified successfully
+2021-06-04 17:09:36 INFO  Assignments2 Acti Time Successfully Executed:92 - the chromebrowser has been closed
+2021-06-04 17:09:37 INFO  Assignments2 Acti Time Successfully Executed:94 - +++++++++++++++++++++++++++++++++++++++
+2021-06-04 17:09:37 INFO  Assignments2 Acti Time Successfully Executed:145 - delete user
+2021-06-04 17:09:58 INFO  Assignments3 Acti Time Successfully Executed:23 - successfully launched chrome browser
+2021-06-04 17:10:04 INFO  Assignments3 Acti Time Successfully Executed:27 - The window has been maximised
+2021-06-04 17:10:04 INFO  Assignments3 Acti Time Successfully Executed:42 - actitime software has been navigated to
+2021-06-04 17:10:14 INFO  Assignments3 Acti Time Successfully Executed:61 - username entered
+2021-06-04 17:10:14 INFO  Assignments3 Acti Time Successfully Executed:66 - password entered
+2021-06-04 17:10:14 INFO  Assignments3 Acti Time Successfully Executed:69 - logged in to the actitime software
+2021-06-04 17:10:24 INFO  Assignments3 Acti Time Successfully Executed:75 - the fluout window has been minimised
+2021-06-04 17:10:30 INFO  Assignments3 Acti Time Successfully Executed:107 - customer has been created with all the required information
+2021-06-04 17:10:36 INFO  Assignments3 Acti Time Successfully Executed:115 - customerLightBox_nameField
+2021-06-04 17:10:36 INFO  Assignments3 Acti Time Successfully Executed:118 - customerLightBox_descriptionField
+2021-06-04 17:10:39 INFO  Assignments3 Acti Time Successfully Executed:134 - delete customer
+2021-06-04 17:10:40 INFO  Assignments3 Acti Time Successfully Executed:92 - the chromebrowser has been closed
+2021-06-04 17:10:40 INFO  Assignments3 Acti Time Successfully Executed:94 - +++++++++++++++++++++++++++++++++++++++
+2021-06-04 17:10:57 INFO  Assignments4 Acti Time Successfully Executed:23 - successfully launched chrome browser
+2021-06-04 17:11:03 INFO  Assignments4 Acti Time Successfully Executed:27 - The window has been maximised
+2021-06-04 17:11:03 INFO  Assignments4 Acti Time Successfully Executed:42 - actitime software has been navigated to
+2021-06-04 17:11:13 INFO  Assignments4 Acti Time Successfully Executed:61 - username entered
+2021-06-04 17:11:13 INFO  Assignments4 Acti Time Successfully Executed:66 - password entered
+2021-06-04 17:11:13 INFO  Assignments4 Acti Time Successfully Executed:69 - logged in to the actitime software
+2021-06-04 17:11:23 INFO  Assignments4 Acti Time Successfully Executed:75 - the fluout window has been minimised
+2021-06-04 17:11:29 INFO  Assignments4 Acti Time Successfully Executed:107 - customer has been created with all the required information
+2021-06-04 17:11:34 INFO  Assignments4 Acti Time Successfully Executed:115 - customerLightBox_nameField
+2021-06-04 17:11:34 INFO  Assignments4 Acti Time Successfully Executed:118 - customerLightBox_descriptionField
+2021-06-04 17:11:36 INFO  Assignments4 Acti Time Successfully Executed:134 - customer modify
+2021-06-04 17:11:38 INFO  Assignments4 Acti Time Successfully Executed:155 - delete customer
+2021-06-04 17:11:39 INFO  Assignments4 Acti Time Successfully Executed:92 - the chromebrowser has been closed
+2021-06-04 17:11:41 INFO  Assignments4 Acti Time Successfully Executed:94 - +++++++++++++++++++++++++++++++++++++++
+2021-06-04 17:16:32 INFO  Assignments5 Acti Time Successfully Executed:23 - successfully launched chrome browser
+2021-06-04 17:16:39 INFO  Assignments5 Acti Time Successfully Executed:27 - The window has been maximised
+2021-06-04 17:16:39 INFO  Assignments5 Acti Time Successfully Executed:42 - actitime software has been navigated to
+2021-06-04 17:16:48 INFO  Assignments5 Acti Time Successfully Executed:61 - username entered
+2021-06-04 17:16:49 INFO  Assignments5 Acti Time Successfully Executed:66 - password entered
+2021-06-04 17:16:49 INFO  Assignments5 Acti Time Successfully Executed:69 - logged in to the actitime software
+2021-06-04 17:17:00 INFO  Assignments5 Acti Time Successfully Executed:75 - the fluout window has been minimised
+2021-06-04 17:17:06 INFO  Assignments5 Acti Time Successfully Executed:107 - customer has been created with all the required information
+2021-06-04 17:17:11 INFO  Assignments5 Acti Time Successfully Executed:115 - customerLightBox_nameField
+2021-06-04 17:17:11 INFO  Assignments5 Acti Time Successfully Executed:118 - customerLightBox_descriptionField
+2021-06-04 17:17:14 INFO  Assignments5 Acti Time Successfully Executed:158 - project has been created with all the required information
+2021-06-04 17:17:15 INFO  Assignments5 Acti Time Successfully Executed:189 - delete project
+2021-06-04 17:17:16 INFO  Assignments5 Acti Time Successfully Executed:134 - delete customer
+2021-06-04 17:17:18 INFO  Assignments5 Acti Time Successfully Executed:92 - the chromebrowser has been closed
+2021-06-04 17:17:18 INFO  Assignments5 Acti Time Successfully Executed:94 - +++++++++++++++++++++++++++++++++++++++
+2021-06-04 17:20:31 INFO  Assignments5 Acti Time Successfully Executed:23 - successfully launched chrome browser
+2021-06-04 17:20:37 INFO  Assignments5 Acti Time Successfully Executed:27 - The window has been maximised
+2021-06-04 17:20:37 INFO  Assignments5 Acti Time Successfully Executed:42 - actitime software has been navigated to
+2021-06-04 17:20:47 INFO  Assignments5 Acti Time Successfully Executed:61 - username entered
+2021-06-04 17:20:47 INFO  Assignments5 Acti Time Successfully Executed:66 - password entered
+2021-06-04 17:20:47 INFO  Assignments5 Acti Time Successfully Executed:69 - logged in to the actitime software
+2021-06-04 17:20:57 INFO  Assignments5 Acti Time Successfully Executed:75 - the fluout window has been minimised
+2021-06-04 17:21:03 INFO  Assignments5 Acti Time Successfully Executed:107 - customer has been created with all the required information
+2021-06-04 17:21:08 INFO  Assignments5 Acti Time Successfully Executed:115 - customerLightBox_nameField
+2021-06-04 17:21:08 INFO  Assignments5 Acti Time Successfully Executed:118 - customerLightBox_descriptionField
+2021-06-04 17:21:11 INFO  Assignments5 Acti Time Successfully Executed:158 - project has been created with all the required information
+2021-06-04 17:21:12 INFO  Assignments5 Acti Time Successfully Executed:189 - delete project
+2021-06-04 17:21:13 INFO  Assignments5 Acti Time Successfully Executed:134 - delete customer
+2021-06-04 17:21:14 INFO  Assignments5 Acti Time Successfully Executed:92 - the chromebrowser has been closed
+2021-06-04 17:21:15 INFO  Assignments5 Acti Time Successfully Executed:94 - +++++++++++++++++++++++++++++++++++++++
+2021-06-04 17:22:24 INFO  Assignments6 Acti Time Successfully Executed:23 - successfully launched chrome browser
+2021-06-04 17:22:28 INFO  Assignments6 Acti Time Successfully Executed:27 - The window has been maximised
+2021-06-04 17:22:29 INFO  Assignments6 Acti Time Successfully Executed:42 - actitime software has been navigated to
+2021-06-04 17:22:38 INFO  Assignments6 Acti Time Successfully Executed:61 - username entered
+2021-06-04 17:22:38 INFO  Assignments6 Acti Time Successfully Executed:66 - password entered
+2021-06-04 17:22:38 INFO  Assignments6 Acti Time Successfully Executed:69 - logged in to the actitime software
+2021-06-04 17:22:49 INFO  Assignments6 Acti Time Successfully Executed:75 - the fluout window has been minimised
+2021-06-04 17:22:55 INFO  Assignments6 Acti Time Successfully Executed:107 - customer has been created with all the required information
+2021-06-04 17:22:59 INFO  Assignments6 Acti Time Successfully Executed:115 - customerLightBox_nameField
+2021-06-04 17:23:00 INFO  Assignments6 Acti Time Successfully Executed:118 - customerLightBox_descriptionField
+2021-06-04 17:23:02 INFO  Assignments6 Acti Time Successfully Executed:158 - project has been created with all the required information
+2021-06-04 17:23:03 INFO  Assignments6 Acti Time Successfully Executed:214 - project modify
+2021-06-04 17:23:04 INFO  Assignments6 Acti Time Successfully Executed:189 - delete project
+2021-06-04 17:23:06 INFO  Assignments6 Acti Time Successfully Executed:134 - delete customer
+2021-06-04 17:23:07 INFO  Assignments6 Acti Time Successfully Executed:92 - the chromebrowser has been closed
+2021-06-04 17:23:08 INFO  Assignments6 Acti Time Successfully Executed:94 - +++++++++++++++++++++++++++++++++++++++
+2021-06-04 17:23:41 INFO  Assignments7 Acti Time Successfully Executed:23 - successfully launched chrome browser
+2021-06-04 17:23:46 INFO  Assignments7 Acti Time Successfully Executed:27 - The window has been maximised
+2021-06-04 17:23:46 INFO  Assignments7 Acti Time Successfully Executed:42 - actitime software has been navigated to
+2021-06-04 17:23:55 INFO  Assignments7 Acti Time Successfully Executed:61 - username entered
+2021-06-04 17:23:55 INFO  Assignments7 Acti Time Successfully Executed:66 - password entered
+2021-06-04 17:23:56 INFO  Assignments7 Acti Time Successfully Executed:69 - logged in to the actitime software
+2021-06-04 17:24:06 INFO  Assignments7 Acti Time Successfully Executed:75 - the fluout window has been minimised
+2021-06-04 17:24:12 INFO  Assignments7 Acti Time Successfully Executed:107 - customer has been created with all the required information
+2021-06-04 17:24:17 INFO  Assignments7 Acti Time Successfully Executed:115 - customerLightBox_nameField
+2021-06-04 17:24:17 INFO  Assignments7 Acti Time Successfully Executed:118 - customerLightBox_descriptionField
+2021-06-04 17:24:19 INFO  Assignments7 Acti Time Successfully Executed:136 - project has been created with all the required information
+2021-06-04 17:24:21 INFO  Assignments7 Acti Time Successfully Executed:92 - the chromebrowser has been closed
+2021-06-04 17:24:22 INFO  Assignments7 Acti Time Successfully Executed:94 - +++++++++++++++++++++++++++++++++++++++
+2021-06-04 17:25:28 INFO  Assignments8 Acti Time Successfully Executed:27 - successfully launched chrome browser
+2021-06-04 17:25:33 INFO  Assignments8 Acti Time Successfully Executed:31 - The window has been maximised
+2021-06-04 17:25:33 INFO  Assignments8 Acti Time Successfully Executed:46 - actitime software has been navigated to
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:64 - actitime logined successfully
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:85 - actitime minimized successfully
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:100 - create 3 users
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:201 - loginand logout  user1 successfully
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:232 - loginand logout  user2 successfully
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:262 - loginand logout  user3 successfully
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:293 - deleted  users successfully
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:337 - the chromebrowser has been closed
+2021-06-04 17:25:43 INFO  Assignments8 Acti Time Successfully Executed:339 - +++++++++++++++++++++++++++++++++++++++
+2021-06-04 17:25:59 INFO  Assignments9 Acti Time Successfully Executed:27 - successfully launched chrome browser
+2021-06-04 17:26:04 INFO  Assignments9 Acti Time Successfully Executed:31 - The window has been maximised
+2021-06-04 17:26:05 INFO  Assignments9 Acti Time Successfully Executed:46 - actitime software has been navigated to
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:63 - actitime software have been loginAdmin successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:86 - actitime software have been minimized successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:101 - create  user1
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:143 - logout1
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:158 - loginuser1
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:185 - created  user2 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:226 - logout2
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:241 - logine user1 
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:269 - created  user3 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:325 - login admin2 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:348 - modified  user1 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:387 - loged  user2 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:403 - modified user2 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:431 - modified  user3 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:471 - loged3 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:486 - loginmodified successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:513 - modifieduser3 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:548 - loged successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:564 - loginmadified3 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:592 - deleted  user3 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:620 - loged successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:635 - loginmodified successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:664 - deleted user2 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:694 - logged successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:710 - loginadmin successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:733 - deleted user1 successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:763 - loged successfully
+2021-06-04 17:26:15 INFO  Assignments9 Acti Time Successfully Executed:779 - the chromebrowser has been closed
+2021-06-04 17:26:18 INFO  Assignments9 Acti Time Successfully Executed:781 - +++++++++++++++++++++++++++++++++++++++
+2021-06-05 17:40:13 INFO  actitime testing:24 - the chrome browser has been launched
+2021-06-05 17:40:14 INFO  actitime testing:27 - the chrome browser window has been maximised
+2021-06-05 17:40:23 INFO  actitime testing:44 - navigated to the actitime software
+2021-06-05 17:40:40 INFO  actitime testing:79 - logged into the actitime software
+2021-06-05 17:40:47 INFO  actitime testing:83 - minimise the flyout window
+2021-06-05 17:41:18 INFO  actitime testing:156 - created the user successfully
+2021-06-05 17:41:33 INFO  actitime testing:180 - deleted the user successfully

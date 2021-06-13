@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="107" passed="107">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation" duration-ms="652796" started-at="2021-06-02T17:28:36 IST" finished-at="2021-06-02T17:39:29 IST">
+    <groups>
+    </groups>
+    <test name="Scenarios" duration-ms="652796" started-at="2021-06-02T17:28:36 IST" finished-at="2021-06-02T17:39:29 IST">
+      <class name="com.sgtesting.Testng.Assignment3">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignment3@4d95d2a2]" name="launchBrowser" duration-ms="11949" started-at="2021-06-02T17:31:38 IST" finished-at="2021-06-02T17:31:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignment3@4d95d2a2]" name="navigate" duration-ms="8311" started-at="2021-06-02T17:31:50 IST" finished-at="2021-06-02T17:31:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgtesting.Testng.Assignment3@4d95d2a2]" name="login" duration-ms="2524" started-at="2021-06-02T17:31:58 IST" finished-at="2021-06-02T17:32:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignment3@4d95d2a2]" name="minimizeFlyOutWindow" duration-ms="5851" started-at="2021-06-02T17:32:01 IST" finished-at="2021-06-02T17:32:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgtesting.Testng.Assignment3@4d95d2a2]" name="createCustomer" duration-ms="9854" started-at="2021-06-02T17:32:07 IST" finished-at="2021-06-02T17:32:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:6, instance:com.sgtesting.Testng.Assignment3@4d95d2a2]" name="deleteCustomer" duration-ms="1199" started-at="2021-06-02T17:32:17 IST" finished-at="2021-06-02T17:32:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:7, instance:com.sgtesting.Testng.Assignment3@4d95d2a2]" name="logout" duration-ms="1269" started-at="2021-06-02T17:32:18 IST" finished-at="2021-06-02T17:32:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:8, instance:com.sgtesting.Testng.Assignment3@4d95d2a2]" name="closeApplication" duration-ms="3679" started-at="2021-06-02T17:32:19 IST" finished-at="2021-06-02T17:32:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.Testng.Assignment3 -->
+      <class name="com.sgtesting.Testng.Assignment4">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="launchBrowser" duration-ms="10563" started-at="2021-06-02T17:32:23 IST" finished-at="2021-06-02T17:32:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="navigate" duration-ms="11131" started-at="2021-06-02T17:32:33 IST" finished-at="2021-06-02T17:32:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="login" duration-ms="2563" started-at="2021-06-02T17:32:44 IST" finished-at="2021-06-02T17:32:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="minimizeFlyOutWindow" duration-ms="4443" started-at="2021-06-02T17:32:47 IST" finished-at="2021-06-02T17:32:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="createCustomer" duration-ms="8035" started-at="2021-06-02T17:32:51 IST" finished-at="2021-06-02T17:33:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="modifyCustomer()[pri:6, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="modifyCustomer" duration-ms="1185" started-at="2021-06-02T17:33:00 IST" finished-at="2021-06-02T17:33:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyCustomer -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:7, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="deleteCustomer" duration-ms="1261" started-at="2021-06-02T17:33:01 IST" finished-at="2021-06-02T17:33:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:8, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="logout" duration-ms="1645" started-at="2021-06-02T17:33:02 IST" finished-at="2021-06-02T17:33:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:9, instance:com.sgtesting.Testng.Assignment4@53f65459]" name="closeApplication" duration-ms="5366" started-at="2021-06-02T17:33:04 IST" finished-at="2021-06-02T17:33:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.Testng.Assignment4 -->
+      <class name="com.sgtesting.Testng.Assignment2">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="launchBrowser" duration-ms="7623" started-at="2021-06-02T17:30:13 IST" finished-at="2021-06-02T17:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="navigate" duration-ms="17815" started-at="2021-06-02T17:30:20 IST" finished-at="2021-06-02T17:30:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="login" duration-ms="2547" started-at="2021-06-02T17:30:38 IST" finished-at="2021-06-02T17:30:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="minimizeFlyOutWindow" duration-ms="25814" started-at="2021-06-02T17:30:41 IST" finished-at="2021-06-02T17:31:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createUser()[pri:5, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="createUser" duration-ms="26301" started-at="2021-06-02T17:31:06 IST" finished-at="2021-06-02T17:31:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="modifyUser()[pri:6, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="modifyUser" duration-ms="70" started-at="2021-06-02T17:31:33 IST" finished-at="2021-06-02T17:31:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser -->
+        <test-method status="PASS" signature="deleteUser()[pri:7, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="deleteUser" duration-ms="125" started-at="2021-06-02T17:31:33 IST" finished-at="2021-06-02T17:31:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="logout()[pri:8, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="logout" duration-ms="1222" started-at="2021-06-02T17:31:33 IST" finished-at="2021-06-02T17:31:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:9, instance:com.sgtesting.Testng.Assignment2@1e965684]" name="closeApplication" duration-ms="4006" started-at="2021-06-02T17:31:34 IST" finished-at="2021-06-02T17:31:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.Testng.Assignment2 -->
+      <class name="com.sgtesting.Testng.Assignment7">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="launchBrowser" duration-ms="13019" started-at="2021-06-02T17:37:40 IST" finished-at="2021-06-02T17:37:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="navigate" duration-ms="18124" started-at="2021-06-02T17:37:53 IST" finished-at="2021-06-02T17:38:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="login" duration-ms="4322" started-at="2021-06-02T17:38:11 IST" finished-at="2021-06-02T17:38:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="minimizeFlyOutWindow" duration-ms="9234" started-at="2021-06-02T17:38:16 IST" finished-at="2021-06-02T17:38:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="createCustomer" duration-ms="11912" started-at="2021-06-02T17:38:25 IST" finished-at="2021-06-02T17:38:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="createProject()[pri:6, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="createProject" duration-ms="1273" started-at="2021-06-02T17:38:37 IST" finished-at="2021-06-02T17:38:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="createTasks()[pri:7, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="createTasks" duration-ms="1162" started-at="2021-06-02T17:38:38 IST" finished-at="2021-06-02T17:38:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTasks -->
+        <test-method status="PASS" signature="deleteTasks()[pri:8, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="deleteTasks" duration-ms="157" started-at="2021-06-02T17:38:39 IST" finished-at="2021-06-02T17:38:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTasks -->
+        <test-method status="PASS" signature="logout()[pri:9, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="logout" duration-ms="1354" started-at="2021-06-02T17:38:40 IST" finished-at="2021-06-02T17:38:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:10, instance:com.sgtesting.Testng.Assignment7@74650e52]" name="closeApplication" duration-ms="2553" started-at="2021-06-02T17:38:41 IST" finished-at="2021-06-02T17:38:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.Testng.Assignment7 -->
+      <class name="com.sgtesting.Testng.Assignment8">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="launchBrowser" duration-ms="8427" started-at="2021-06-02T17:38:44 IST" finished-at="2021-06-02T17:38:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="navigate" duration-ms="11928" started-at="2021-06-02T17:38:52 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="loginAdmin()[pri:3, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="loginAdmin" duration-ms="7" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAdmin -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="minimizeFlyOutWindow" duration-ms="45" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="create3Users()[pri:5, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="create3Users" duration-ms="3" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create3Users -->
+        <test-method status="PASS" signature="loginandlogoutuser1()[pri:6, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="loginandlogoutuser1" duration-ms="3" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginandlogoutuser1 -->
+        <test-method status="PASS" signature="loginandlogoutuser2()[pri:7, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="loginandlogoutuser2" duration-ms="5" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginandlogoutuser2 -->
+        <test-method status="PASS" signature="loginandlogoutuser3()[pri:8, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="loginandlogoutuser3" duration-ms="3" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginandlogoutuser3 -->
+        <test-method status="PASS" signature="deleteUser()[pri:9, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="deleteUser" duration-ms="3" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="logout()[pri:10, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="logout" duration-ms="53" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closebrowser()[pri:11, instance:com.sgtesting.Testng.Assignment8@15d0c81b]" name="closebrowser" duration-ms="4" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.sgtesting.Testng.Assignment8 -->
+      <class name="com.sgtesting.Testng.Assignment5">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="launchBrowser" duration-ms="6999" started-at="2021-06-02T17:33:09 IST" finished-at="2021-06-02T17:33:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="navigate" duration-ms="135689" started-at="2021-06-02T17:33:16 IST" finished-at="2021-06-02T17:35:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="login" duration-ms="3989" started-at="2021-06-02T17:35:32 IST" finished-at="2021-06-02T17:35:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="minimizeFlyOutWindow" duration-ms="47" started-at="2021-06-02T17:35:36 IST" finished-at="2021-06-02T17:35:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="createCustomer" duration-ms="151" started-at="2021-06-02T17:35:36 IST" finished-at="2021-06-02T17:35:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="createProject()[pri:6, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="createProject" duration-ms="212" started-at="2021-06-02T17:35:37 IST" finished-at="2021-06-02T17:35:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="deleteProject()[pri:7, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="deleteProject" duration-ms="119" started-at="2021-06-02T17:35:37 IST" finished-at="2021-06-02T17:35:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProject -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:8, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="deleteCustomer" duration-ms="76" started-at="2021-06-02T17:35:37 IST" finished-at="2021-06-02T17:35:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:9, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="logout" duration-ms="677" started-at="2021-06-02T17:35:37 IST" finished-at="2021-06-02T17:35:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:10, instance:com.sgtesting.Testng.Assignment5@3b088d51]" name="closeApplication" duration-ms="28855" started-at="2021-06-02T17:35:38 IST" finished-at="2021-06-02T17:36:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.Testng.Assignment5 -->
+      <class name="com.sgtesting.Testng.Assignment6">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="launchBrowser" duration-ms="20871" started-at="2021-06-02T17:36:07 IST" finished-at="2021-06-02T17:36:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="navigate" duration-ms="21695" started-at="2021-06-02T17:36:27 IST" finished-at="2021-06-02T17:36:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="login" duration-ms="4389" started-at="2021-06-02T17:36:49 IST" finished-at="2021-06-02T17:36:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="minimizeFlyOutWindow" duration-ms="14559" started-at="2021-06-02T17:36:54 IST" finished-at="2021-06-02T17:37:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="createCustomer" duration-ms="14212" started-at="2021-06-02T17:37:08 IST" finished-at="2021-06-02T17:37:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="createProject()[pri:6, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="createProject" duration-ms="1323" started-at="2021-06-02T17:37:23 IST" finished-at="2021-06-02T17:37:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="modifyProject()[pri:7, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="modifyProject" duration-ms="1418" started-at="2021-06-02T17:37:24 IST" finished-at="2021-06-02T17:37:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyProject -->
+        <test-method status="PASS" signature="deleteProject()[pri:8, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="deleteProject" duration-ms="1248" started-at="2021-06-02T17:37:25 IST" finished-at="2021-06-02T17:37:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProject -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:9, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="deleteCustomer" duration-ms="1224" started-at="2021-06-02T17:37:27 IST" finished-at="2021-06-02T17:37:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:10, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="logout" duration-ms="1308" started-at="2021-06-02T17:37:28 IST" finished-at="2021-06-02T17:37:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:11, instance:com.sgtesting.Testng.Assignment6@1786dec2]" name="closeApplication" duration-ms="10599" started-at="2021-06-02T17:37:29 IST" finished-at="2021-06-02T17:37:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.Testng.Assignment6 -->
+      <class name="com.sgtesting.Testng.Assignments1">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignments1@64729b1e]" name="launchBrowser" duration-ms="29576" started-at="2021-06-02T17:28:36 IST" finished-at="2021-06-02T17:29:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignments1@64729b1e]" name="navigate" duration-ms="53640" started-at="2021-06-02T17:29:06 IST" finished-at="2021-06-02T17:29:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgtesting.Testng.Assignments1@64729b1e]" name="login" duration-ms="7596" started-at="2021-06-02T17:29:59 IST" finished-at="2021-06-02T17:30:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignments1@64729b1e]" name="minimizeFlyOutWindow" duration-ms="803" started-at="2021-06-02T17:30:07 IST" finished-at="2021-06-02T17:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createUser()[pri:5, instance:com.sgtesting.Testng.Assignments1@64729b1e]" name="createUser" duration-ms="79" started-at="2021-06-02T17:30:08 IST" finished-at="2021-06-02T17:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="deleteUser()[pri:6, instance:com.sgtesting.Testng.Assignments1@64729b1e]" name="deleteUser" duration-ms="48" started-at="2021-06-02T17:30:08 IST" finished-at="2021-06-02T17:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="logout()[pri:7, instance:com.sgtesting.Testng.Assignments1@64729b1e]" name="logout" duration-ms="512" started-at="2021-06-02T17:30:08 IST" finished-at="2021-06-02T17:30:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:8, instance:com.sgtesting.Testng.Assignments1@64729b1e]" name="closeApplication" duration-ms="4236" started-at="2021-06-02T17:30:08 IST" finished-at="2021-06-02T17:30:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.Testng.Assignments1 -->
+      <class name="com.sgtesting.Testng.Assignment9">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="launchBrowser" duration-ms="9928" started-at="2021-06-02T17:39:04 IST" finished-at="2021-06-02T17:39:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="navigate" duration-ms="13557" started-at="2021-06-02T17:39:14 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="loginAdmin()[pri:3, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginAdmin" duration-ms="118" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAdmin -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="minimizeFlyOutWindow" duration-ms="37" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createUser1()[pri:5, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="createUser1" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser1 -->
+        <test-method status="PASS" signature="logout1()[pri:6, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout1" duration-ms="4" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout1 -->
+        <test-method status="PASS" signature="loginuser1()[pri:7, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginuser1" duration-ms="2" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginuser1 -->
+        <test-method status="PASS" signature="createUser2()[pri:8, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="createUser2" duration-ms="2" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser2 -->
+        <test-method status="PASS" signature="logout2()[pri:9, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout2" duration-ms="2" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout2 -->
+        <test-method status="PASS" signature="loginuser2()[pri:10, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginuser2" duration-ms="2" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginuser2 -->
+        <test-method status="PASS" signature="createUser3()[pri:11, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="createUser3" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser3 -->
+        <test-method status="PASS" signature="logout3()[pri:12, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout3" duration-ms="15" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout3 -->
+        <test-method status="PASS" signature="loginAdmin1()[pri:13, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginAdmin1" duration-ms="157" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAdmin1 -->
+        <test-method status="PASS" signature="modifyUser1()[pri:14, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="modifyUser1" duration-ms="5" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser1 -->
+        <test-method status="PASS" signature="logout4()[pri:15, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout4" duration-ms="7" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout4 -->
+        <test-method status="PASS" signature="loginModifieduser1()[pri:16, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginModifieduser1" duration-ms="4" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginModifieduser1 -->
+        <test-method status="PASS" signature="modifyUser2()[pri:17, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="modifyUser2" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser2 -->
+        <test-method status="PASS" signature="logout5()[pri:18, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout5" duration-ms="2" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout5 -->
+        <test-method status="PASS" signature="loginModifieduser2()[pri:19, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginModifieduser2" duration-ms="4" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginModifieduser2 -->
+        <test-method status="PASS" signature="modifyUser3()[pri:20, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="modifyUser3" duration-ms="2" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser3 -->
+        <test-method status="PASS" signature="logout6()[pri:21, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout6" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout6 -->
+        <test-method status="PASS" signature="loginModifieduser3()[pri:22, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginModifieduser3" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginModifieduser3 -->
+        <test-method status="PASS" signature="deleteuser3()[pri:23, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="deleteuser3" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser3 -->
+        <test-method status="PASS" signature="logout7()[pri:24, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout7" duration-ms="2" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout7 -->
+        <test-method status="PASS" signature="loginModifieduser11()[pri:25, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginModifieduser11" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginModifieduser11 -->
+        <test-method status="PASS" signature="deleteuser2()[pri:26, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="deleteuser2" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser2 -->
+        <test-method status="PASS" signature="logout8()[pri:27, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout8" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout8 -->
+        <test-method status="PASS" signature="loginAdmin11()[pri:28, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="loginAdmin11" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAdmin11 -->
+        <test-method status="PASS" signature="deleteuser1()[pri:29, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="deleteuser1" duration-ms="2" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser1 -->
+        <test-method status="PASS" signature="logout()[pri:30, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="logout" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closebrowser()[pri:31, instance:com.sgtesting.Testng.Assignment9@6acdbdf5]" name="closebrowser" duration-ms="3" started-at="2021-06-02T17:39:28 IST" finished-at="2021-06-02T17:39:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.sgtesting.Testng.Assignment9 -->
+    </test> <!-- Scenarios -->
+  </suite> <!-- Automation -->
+</testng-results>
